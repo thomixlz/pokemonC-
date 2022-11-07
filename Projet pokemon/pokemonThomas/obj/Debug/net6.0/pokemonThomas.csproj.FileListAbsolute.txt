@@ -1,0 +1,30 @@
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.AssemblyInfo.cs
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\bin\Debug\net6.0\pokemonThomas.exe
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\bin\Debug\net6.0\pokemonThomas.deps.json
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\bin\Debug\net6.0\pokemonThomas.runtimeconfig.json
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\bin\Debug\net6.0\pokemonThomas.dll
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\bin\Debug\net6.0\pokemonThomas.pdb
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.dll
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\refint\pokemonThomas.dll
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.pdb
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\pokemonThomas.genruntimeconfig.cache
+C:\Users\ROG\Desktop\pokemonThomas\pokemonThomas\obj\Debug\net6.0\ref\pokemonThomas.dll
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\bin\Debug\net6.0\pokemonThomas.exe
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\bin\Debug\net6.0\pokemonThomas.deps.json
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\bin\Debug\net6.0\pokemonThomas.runtimeconfig.json
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\bin\Debug\net6.0\pokemonThomas.dll
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\bin\Debug\net6.0\pokemonThomas.pdb
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.AssemblyInfo.cs
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.dll
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\refint\pokemonThomas.dll
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.pdb
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\pokemonThomas.genruntimeconfig.cache
+C:\Users\ROG\Desktop\Projet pokemon\pokemonThomas\obj\Debug\net6.0\ref\pokemonThomas.dll
